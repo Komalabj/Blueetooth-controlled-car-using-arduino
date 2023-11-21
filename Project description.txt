@@ -1,0 +1,5 @@
+Project description
+
+This is my first attempt in building a bluetooth controlled car with Arduino. 
+
+ Once I get down all the parts I wanted to build it and test it. But there was no chassis. I look around and found a DVD casing. Well that's not the best choice but it serves for the time being. I used cable ties to put attach 4 motors to the chassis. For the power supply I used a 7.4V 1800mAh Li-ion battery from a walky talky, which is rechargeable. 

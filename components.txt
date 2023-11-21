@@ -1,0 +1,26 @@
+Jumper wires (generic)
+
+
+
+Dual H-Bridge motor drivers L298
+
+
+
+Maker Essentials - Micro-motors & Grippy Wheels
+
+
+
+Arduino UNO
+
+
+Li-Ion Battery 1000mAh
+
+
+
+LED (generic)
+
+
+
+HC-05 Bluetooth Module
+
+
